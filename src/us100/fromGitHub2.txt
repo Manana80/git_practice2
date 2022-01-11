@@ -1,1 +1,1 @@
-this is how you pull down the changes from remote to local 
+This is how you pull down the changes from remote to local.
